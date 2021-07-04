@@ -1,0 +1,5 @@
+"C:\Users\D. RHUTHVIK\PycharmProjects\learningprocess\venv\Scripts\python.exe" "C:/Users/D. RHUTHVIK/PycharmProjects/learningprocess/hashgen.py"
+Enter string: hi
+md5 =  49f68a5c8493ec2c0bf489821c21fc3b
+sha256 =  8f434346648f6b96df89dda901c5176b10a6d83961dd3c1ac88b59b2dc327aa4
+blake2b =  bfbcbe7ade93034ee0a41a2ea7b5fd81d89bdb1d75d1af230ea37d7abe71078f1df6db4d251cbc6b58e8963db2546f0f539c80b0f08c0fdd8c0a71075c97b3e7
